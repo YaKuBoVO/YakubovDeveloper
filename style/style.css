@@ -74,6 +74,7 @@ h2 {
 .icon a {
    display: inline-block;
    background-color: #262626;
+   color: #fff;
    width: 40px;
    height: 40px;
    line-height: 40px;
